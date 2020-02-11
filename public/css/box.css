@@ -1,0 +1,42 @@
+
+.soal {
+  background-color: yellow;
+  width: 45px;
+  height: 45px;
+  border: 3px solid black;
+  padding-left: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  text-align: left;
+}
+
+.soal:hover {
+  background-color: white;
+  width: 45px;
+  height: 45px;
+  border: 3px solid black;
+  margin-right: 10px;
+  padding-left: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  text-align: left;
+}
+
+
+.soalactive {
+  background-color: white;
+  width: 45px;
+  height: 45px;
+  border: 3px solid black;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  text-align: left;
+}
